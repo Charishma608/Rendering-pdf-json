@@ -97,7 +97,7 @@ const Report = ({ data }) => {
               </div>
             </div>
             <div className="flex flex-col items-center p-2 w-20 bg-white border border-gray-300 rounded-lg shadow mr-0">
-              <p className="text-sm">20%</p>
+              <p className="text-sm">50%</p>
               <div className="flex items-center">
                 <p className="text-lg mr-2">😟</p>
                 <p className="text-sm">Sad</p>
